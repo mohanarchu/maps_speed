@@ -1,0 +1,4 @@
+#Wed May 15 16:37:20 IST 2019
+base.0=F\:\\Myprojects\\maps_speed\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

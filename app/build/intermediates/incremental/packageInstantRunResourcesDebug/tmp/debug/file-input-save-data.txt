@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Jun 09 18:55:56 IST 2018
+1.base=F\:\\Android\\maps_speed\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=font/athletic.ttf
+0.set=ASSET
+0.base=F\:\\Android\\maps_speed\\app\\build\\intermediates\\assets\\debug
+1.path=font/capture.ttf

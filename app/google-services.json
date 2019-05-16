@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "355043075315",
+    "firebase_url": "https://cricfix-b083f.firebaseio.com",
+    "project_id": "cricfix-b083f",
+    "storage_bucket": "cricfix-b083f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355043075315:android:4fef8493a590dfdf",
+        "android_client_info": {
+          "package_name": "cricfix.cloudin.cricfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355043075315-qjolkbh8bjd3hahkilorc8pc5d4jdmru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cricfix.cloudin.cricfix",
+            "certificate_hash": "8a897fb096ebff1932dc059e12103b9df3273f7f"
+          }
+        },
+        {
+          "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTNGp0C83IYzAqtrqmznfSbHk8468BU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355043075315:android:05e1d78e07af1629",
+        "android_client_info": {
+          "package_name": "product.vehicle.vehiclesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355043075315-ovfeohspo7q51s8mcpf3ah0b0qgh4ebq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "product.vehicle.vehiclesystem",
+            "certificate_hash": "8a897fb096ebff1932dc059e12103b9df3273f7f"
+          }
+        },
+        {
+          "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTNGp0C83IYzAqtrqmznfSbHk8468BU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355043075315-gf6u7jtfnf5kcgpvv1fnl79p09ka4647.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat May 11 10:05:14 IST 2019
+1.base=F\:\\Myprojects\\maps_speed\\app\\build\\intermediates\\assets\\debug
+2.path=font/athletic.ttf
+0.baseType=DIRECTORY
+2.base=F\:\\Myprojects\\maps_speed\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=F\:\\Myprojects\\maps_speed\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.baseType=DIRECTORY
+1.path=font/capture.ttf
